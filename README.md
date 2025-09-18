@@ -61,12 +61,6 @@ For a deeper dive, check the `HospitalNavigator` class in `tsp_astar.py`.
 - Initial floor plan: ![Floor Plan](screenshots/Initial.png)
 - With path: ![Path Found](screenshots/Goal.png)
 
-## 🧮 Extending the Project
-- **Custom Grids**: Modify `self.grid` in `__init__` to load from files (e.g., CSV).
-- **Advanced Heuristics**: Swap Manhattan for Euclidean or add weights for room traversal.
-- **3D View**: Integrate with Plotly for multi-floor navigation.
-- **Real Data**: Integrate hospital blueprints via image processing (e.g., OpenCV).
-
 ## 📄 License
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
